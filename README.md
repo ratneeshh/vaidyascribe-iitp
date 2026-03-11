@@ -1,6 +1,8 @@
+<div align="center">
+
 # VaidyaScribe — Ambient AI Clinical Scribe
 
-<div align="center">
+
 
 **Speak naturally. Get structured FHIR-compliant clinical records instantly.**
 
