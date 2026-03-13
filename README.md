@@ -6,7 +6,7 @@
 
 **Speak naturally. Get structured FHIR-compliant clinical records instantly.**
 
-Built for **PS-1: Mobile-First Ambient AI Scribe** — Bharat Health Hackathon
+Built for **PS-1: Mobile-First Ambient AI Scribe** — HACKMATRIX 2.0 (a national hackathon) Co-organized by Jilo Health & NJACK IIT Patna 
 
 ---
 
